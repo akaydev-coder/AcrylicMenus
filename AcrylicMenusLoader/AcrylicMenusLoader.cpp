@@ -15,7 +15,7 @@
 #endif
 #endif
 
-#define INJECT_EXPLORER_ONLY TRUE
+#define INJECT_EXPLORER_ONLY FALSE
 
 const LPCWSTR szWindowClass = L"ACRYLICMENUS";
 const UINT WM_TASKBARCREATED = RegisterWindowMessage(L"TaskbarCreated");
